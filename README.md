@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Allknowingroger 🇬🇧
 - 
-- 👀 I’m interested in ...space 🚀
+- 👀 I’m interested in ...
+-                         space 🚀
 -                         satellite imagery 🛰
 -                         Digital chemistry 🕯🔬
 -                         wikidata analysis 🤖
@@ -9,13 +10,15 @@
 -                         Digital art 🖼
 -                         website dev 🖥
 - 
-- 🌱 I’m currently learning ...sparql
+- 🌱 I’m currently learning ...
+-                              sparql
 -                              php
 -                              html5
 -                              csv
 -                              prompt creation
 - 
-- 💞️ I’m looking to collaborate on ...awesome lists
+- 💞️ I’m looking to collaborate on ...
+-                                     awesome lists
 -                                     Satellite software
 -                                     a.i. 
 - 
