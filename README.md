@@ -9,6 +9,7 @@
 -                         Ukraine OSINT 💂👀
 -                         Digital art 🖼
 -                         website dev 🖥
+-                         neural network models 🤖
 - 
 - 🌱 I’m currently learning ...
 -                              sparql
@@ -22,8 +23,8 @@
 -                                     Satellite software
 -                                     a.i. 
 - 
-- 📫 How to reach me ...@eyes_roger
-https://mobile.twitter.com/eyes_roger
+- 📫 How to reach me ...@allknowingroger
+https://mobile.twitter.com/allknowingroger
 
 <!---
 Allknowingroger/Allknowingroger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
